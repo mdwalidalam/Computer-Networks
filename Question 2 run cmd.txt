@@ -1,0 +1,8 @@
+How to Run:
+Compile both files:
+javac Server.java
+javac Client.java
+Run the Server first on PC2:
+java Server
+Run the Client on PC1
+java Client
